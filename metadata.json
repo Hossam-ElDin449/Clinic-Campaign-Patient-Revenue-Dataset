@@ -1,0 +1,6 @@
+{
+  "name": "Saudi Clinics Marketing & Revenue Analytics",
+  "description": "Healthcare marketing performance, patient acquisition funnel, and regional clinic revenue analytics dashboard for Saudi Arabia medical centers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
